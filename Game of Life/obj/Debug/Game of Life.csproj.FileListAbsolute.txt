@@ -16,3 +16,12 @@ C:\Users\Marcos\Documents\Visual Studio 2015\Projects\Game of Life\Game of Life\
 C:\Users\Marcos\Documents\Visual Studio 2015\Projects\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.Cache
 C:\Users\Marcos\Documents\Visual Studio 2015\Projects\Game of Life\Game of Life\obj\Debug\Game of Life.exe
 C:\Users\Marcos\Documents\Visual Studio 2015\Projects\Game of Life\Game of Life\obj\Debug\Game of Life.pdb
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\obj\Debug\Game of Life.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\obj\Debug\GridTest.Form1.resources
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\obj\Debug\Game of Life.Properties.Resources.resources
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.Cache
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Marcos\Documents\GitHub\Game-of-Life-CSharp\Game of Life\obj\Debug\Game of Life.pdb
