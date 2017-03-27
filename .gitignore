@@ -19,6 +19,8 @@ x64/
 x86/
 bld/
 [Bb]in/
+bin/
+obj/
 [Oo]bj/
 [Ll]og/
 
@@ -301,5 +303,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-Game of Life/obj/
-Game of Life/bin/
